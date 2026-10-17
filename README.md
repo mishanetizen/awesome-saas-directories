@@ -63,6 +63,7 @@ A More Complete List of AI Directories are available on **[best-of-ai/ai-directo
 - [Simple.ink](https://simple.ink/) - A directory for no-code SaaS builders.
 - [API List](https://apilist.fun/) - Public APIs for developers.
 - [Remote Tools](https://remote.tools/) - SaaS tools for remote work.
+- [MySkills](https://myskills.info/) - Browser-based Markdown to PDF tool. No account required; local preview + server-side render.
 
 ---
 
